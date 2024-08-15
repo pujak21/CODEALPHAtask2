@@ -3,7 +3,7 @@ ARITHMETIC CALCULATOR
 The Arithmetic Calculator is a simple web-based application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed with a user-friendly interface and is built using HTML, CSS, and JavaScript.
 
 
-#Features
+#Features:
 
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 
@@ -14,7 +14,7 @@ Responsive Design: The calculator layout is responsive and works on various scre
 Keyboard Support: Users can input numbers and operations using both the mouse and keyboard.
 
 
-#Technologies Used
+#Technologies Used:
 
 HTML5: For structuring the calculator interface.
 
